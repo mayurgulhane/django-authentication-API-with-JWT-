@@ -1,4 +1,4 @@
-
+# Django REST Framework Complete Authentication API with Simple JWT
 ## Installation
 
 #### Cloning the Repository:
